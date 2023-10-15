@@ -2,7 +2,7 @@ const quizData = [
     {
       question: 'Who is the name of the author of this Quizz App BETA?',
       options: ['Muhammad Haris Nugroho', 'Mohammed Haris Nugroho', 'Muhamad Haris Nogroho', 'Mas Haris Nugroho'],
-      answer: 'Haris',
+      answer: 'Muhammad Haris Nugroho',
     },
     {
       question: 'What is the capital of France?',
